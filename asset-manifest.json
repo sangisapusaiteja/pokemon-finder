@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pokemon-finder/static/css/main.8edd7aa3.css",
+    "main.js": "/pokemon-finder/static/js/main.a7d05ff0.js",
+    "static/js/787.e6d6c67a.chunk.js": "/pokemon-finder/static/js/787.e6d6c67a.chunk.js",
+    "index.html": "/pokemon-finder/index.html",
+    "main.8edd7aa3.css.map": "/pokemon-finder/static/css/main.8edd7aa3.css.map",
+    "main.a7d05ff0.js.map": "/pokemon-finder/static/js/main.a7d05ff0.js.map",
+    "787.e6d6c67a.chunk.js.map": "/pokemon-finder/static/js/787.e6d6c67a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8edd7aa3.css",
+    "static/js/main.a7d05ff0.js"
+  ]
+}
